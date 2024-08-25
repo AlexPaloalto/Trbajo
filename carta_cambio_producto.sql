@@ -1,0 +1,1 @@
+﻿update tboperativos set  caacvecarta= 'BBCO04' WHERE geaanumfoliocd= '240210';

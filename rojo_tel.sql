@@ -1,0 +1,1 @@
+﻿UPDATE tbtelefono SET teafax=9,telteldefault='F' WHERE teanumtelefono in ()
